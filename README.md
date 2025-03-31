@@ -1,6 +1,6 @@
 ## Hello, I'm Kovid Kodali!👋
 
-I am an Engineer with a relentless curiosity, always eager to learn, adapt, and explore new technologies.  As a quick learner and problem solver, I enjoy building efficient systems and leveraging the right tools to create impactful solutions. While I value the fundamentals of computer science, I also believe that mastering the right tools is essential for innovation. I’m excited to take on new challenges and contribute to cutting-edge developments in the tech world.
+I am a passionate and results-driven Engineer with a strong foundation in data science, analytics, and business intelligence. With expertise in SQL, Python, Power BI, and machine learning, I thrive on transforming raw data into meaningful insights that drive strategic decision-making. My experience in data visualization, statistical modeling, and problem-solving allows me to tackle complex business challenges efficiently. I am eager to leverage my analytical skills and technical proficiency to contribute to innovative and data-driven solutions.
 
 💡 Experienced in: Software Development Engineering. <br>
 🔍 Currently exploring: Data Engineering and scalable system design.<br>

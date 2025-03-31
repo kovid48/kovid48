@@ -53,8 +53,6 @@ I am an Engineer with a relentless curiosity, always eager to learn, adapt, and 
 
 </p>
 
-## 📖 My Blog Posts
-- [How to Build Your First REST API with ASP.NET Core 8](https://medium.com/@valivati.navya555/how-to-build-your-first-rest-api-with-asp-net-core-8-829de8c855dc)
 
 ## 💡 Fun Facts: 
 🌍 I love traveling & seeking adventures in new places. <br>

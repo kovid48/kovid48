@@ -62,7 +62,7 @@ I am a passionate and results-driven Engineer with a strong foundation in data s
 <p align="center">
    <strong> Thank you for visiting! 🌟 </strong>
    <br>
-   <a href="www.linkedin.com/in/kovid48">
+   <a href="https://www.linkedin.com/in/kovid48">
       <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
    </a>
 </p>
